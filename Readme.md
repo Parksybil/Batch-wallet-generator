@@ -1,4 +1,4 @@
-# Wallet Generator
+# Batch Wallet Generator
 
 A simple script to generate Ethereum wallets with seed phrases, public addresses, and private keys.
 
@@ -15,3 +15,13 @@ A simple script to generate Ethereum wallets with seed phrases, public addresses
 
 ```bash
 npm install
+
+
+Run
+
+node index.js
+
+The script will ask how many wallet you want to generate.
+
+
+Your wallets addresses, privatekey and seed phrases will be saved in to wallets.txt
