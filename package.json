@@ -1,0 +1,22 @@
+{
+  "name": "Batch-wallet-generator",
+  "version": "1.0.0",
+  "description": "A simple script to generate Ethereum wallets with seed phrases, public addresses, and private keys.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^5.7.0",
+    "fs": "0.0.1-security",
+    "readline": "^1.3.0"
+  },
+  "keywords": [
+    "ethereum",
+    "wallet",
+    "generator",
+    "seed-phrase"
+  ],
+  "author": "Park Sy Bil",
+  "license": "MIT"
+}
