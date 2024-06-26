@@ -13,11 +13,11 @@ A simple script to generate Ethereum wallets with seed phrases, public addresses
 2. Navigate to the project directory.
 3. Run `npm install` to install the dependencies.
 
-```bash
+
 npm install
 
 
-Run
+4.Run. 
 
 node index.js
 
